@@ -7,7 +7,7 @@ Our group is interested in the impact of the COVID pandemic on the **Job Market*
 ## Results
 
 ### 1. Trend Overview
-There was a general observation on how emplyment and COVID new cases change over the time in the United States. There was an initial dip in employment rates during COVID onset in the United States
+There was an initial dip in employment rates during COVID onset in the United States, and a gradual decrease as time proceeds.
 <img src="https://github.com/JunoWuu/Datathon/blob/master/time_series.png">
 
 ### 2. Time Series Analysis
