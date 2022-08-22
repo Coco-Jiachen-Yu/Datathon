@@ -11,7 +11,7 @@ There was an initial dip in employment rates during COVID onset in the United St
 <img src="https://github.com/JunoWuu/Datathon/blob/master/time_series.png">
 
 ### 2. Time Series Analysis
-Then, we run an VAR model on both of those time series and get the coefficients of different MSAs. We use those to create an interactive map. 
+We employed an VAR model on both of those time series and calculated the coefficients of different MSAs. An interactive map was created for visualization. 
 ![heatmap](https://user-images.githubusercontent.com/91500767/185817317-4862dc44-f3b7-400a-85eb-df49457fce0f.png)
 
 In addition to that, we also created a TSA graph. 
